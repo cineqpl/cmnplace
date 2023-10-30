@@ -1,0 +1,10 @@
+body {
+    background-color: #FFD6AA;
+    font-family: Arial
+   }
+
+.entry {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFB9AA;
+}
